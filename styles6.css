@@ -1,0 +1,41 @@
+#box1{
+    position: static;
+    background-color: red;
+    
+}
+
+#box2{
+    position: relative;
+    background-color: blueviolet;
+   
+}
+
+#box3{
+    position: fixed;
+    background-color: green;
+    right: 10px;
+    top: 10px;
+   
+}
+
+#box4{
+    position: absolute;
+    background-color: yellowgreen;
+    bottom: 10px;
+    
+
+}
+
+#box5{
+    position: sticky;
+    background-color: rgb(219, 112, 130);
+
+    
+   
+}
+div{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}

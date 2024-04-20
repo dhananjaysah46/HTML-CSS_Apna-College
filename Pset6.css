@@ -1,0 +1,34 @@
+/* div{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+} */
+a{
+    text-decoration: none;
+    background-color: rgb(245, 151, 151);
+
+}
+li{
+    list-style-type: none;
+    /* display: inline; */
+}
+ul{
+    background-color: rgb(19, 18, 18);
+    display: flex;
+    justify-content: space-evenly;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color:cornflowerblue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color:darkorchid ;
+    /* align items has higher priority than align item */
+    align-self: flex-start;   
+}

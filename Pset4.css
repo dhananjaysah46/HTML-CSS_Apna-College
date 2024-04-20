@@ -1,0 +1,35 @@
+.navbar{
+    background-color: black;
+    border-radius: 1px;
+    height: 60px;
+    /* color: white; */
+
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+.contentBox{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 550px;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}

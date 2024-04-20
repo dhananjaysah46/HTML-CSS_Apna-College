@@ -1,0 +1,15 @@
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s/; */
+    /* transition: all 2s ease-in 1s;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    /* transform: rotate(45deg); */
+    /* transform: skew(80px); */ 
+    div:hover {
+        background-color:pink ;
+        color: white;
+    
+    }
